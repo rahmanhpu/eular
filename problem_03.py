@@ -25,3 +25,16 @@ def get_dividers(n):
 print(get_dividers(13195))
 
 print(get_dividers(600851475143)[-1])
+
+
+
+#n=600851475143
+#n=13195
+#i=2
+#while i<n:
+#    if(n%i)==0:
+#        n=n/i
+#        i=i
+#    else:
+#        i=i+1
+#print(i)
